@@ -2,4 +2,4 @@
     remote = storage
     autostage = true
 ['remote "storage"']
-    url = s3://bucket-name/project_name/dvc
+    url = gs://leak-recognition/dvc
