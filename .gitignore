@@ -357,7 +357,7 @@ dmypy.json
 cython_debug/
 
 # Dataset
-#/data/
+/data/
 
 # Models
 *.pth
