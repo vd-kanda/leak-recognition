@@ -1,0 +1,6 @@
+wdir: ../../data
+outs:
+- md5: e4e3005defedf0892ece15bb1294ab7b.dir
+  size: 31082600
+  nfiles: 3
+  path: demo
