@@ -22,3 +22,18 @@ cd leak-recognition
 chmod +x create_env.sh
 source create_env.sh
 ```
+
+## Installation of GCS
+
+Step 1: Install **gsutil** by following the steps described at _https://cloud.google.com/storage/docs/gsutil_inst_
+
+Step 2: Authorize **gcloud** to access the Cloud Platform with Google user credentials
+``` bash
+gcloud auth login
+gcloud auth application-default login
+```
+
+Step 3: Verify that DVC and GCS are properly connected and authorized
+``` bash
+dvc pull dvc/data/demo.dvc
+```
