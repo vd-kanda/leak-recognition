@@ -17,7 +17,7 @@ chmod +x Miniconda3-latest-Linux-x86_64.sh
 
 Step 2: Clone the repository, create a conda environment, and install the requirements for the repository
 ``` bash
-git clone https://github.com/vdanilov-kanda/leak-recognition.git
+git clone https://github.com/vd-kanda/leak-recognition.git
 cd leak-recognition
 chmod +x create_env.sh
 source create_env.sh
