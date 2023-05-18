@@ -1,0 +1,6 @@
+wdir: ../../data/raw
+outs:
+- md5: 961a5958f520a8f3dcb36257096c3f78.dir
+  size: 2718333
+  nfiles: 22400
+  path: sentinel_2

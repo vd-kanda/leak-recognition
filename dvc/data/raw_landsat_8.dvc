@@ -1,0 +1,6 @@
+wdir: ../../data/raw
+outs:
+- md5: 0a91241e527795425c5e354ada9d4fb7.dir
+  size: 4617480
+  nfiles: 40152
+  path: landsat_8

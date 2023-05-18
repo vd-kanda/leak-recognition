@@ -1,0 +1,6 @@
+wdir: ../../data/raw
+outs:
+- md5: b619f74a8599709b6cafe8436cb82e1e.dir
+  size: 1490439
+  nfiles: 132
+  path: naip
